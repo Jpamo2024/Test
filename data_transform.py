@@ -1,5 +1,5 @@
 import pandas as pd
-#Esta es la cuarta version
+#Esta es la sexta version
 # Ruta del archivo CSV intermedio
 archivo_csv = 'clientes.csv'
 
